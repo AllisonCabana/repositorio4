@@ -1,0 +1,7 @@
+C:\Users\Proyecto\Desktop\repositorio4\repositorio\repositorio\bin\Debug\repositorio.exe
+C:\Users\Proyecto\Desktop\repositorio4\repositorio\repositorio\bin\Debug\repositorio.pdb
+C:\Users\Proyecto\Desktop\repositorio4\repositorio\repositorio\obj\x86\Debug\repositorio.Properties.Resources.resources
+C:\Users\Proyecto\Desktop\repositorio4\repositorio\repositorio\obj\x86\Debug\repositorio.csproj.GenerateResource.Cache
+C:\Users\Proyecto\Desktop\repositorio4\repositorio\repositorio\obj\x86\Debug\repositorio.exe
+C:\Users\Proyecto\Desktop\repositorio4\repositorio\repositorio\obj\x86\Debug\repositorio.pdb
+C:\Users\Proyecto\Desktop\repositorio4\repositorio\repositorio\obj\x86\Debug\repositorio.Form1.resources
